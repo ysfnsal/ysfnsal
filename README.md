@@ -38,9 +38,3 @@ You can find and get touch with me via Linkedin and Instagram!
 
 ![snake gif](https://github.com/cagataytuylu/cagataytuylu/blob/output/github-contribution-grid-snake.gif)
 
-
-
----
-[![](https://visitcount.itsvg.in/api?id=ysfnsal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
