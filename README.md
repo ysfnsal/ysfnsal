@@ -61,3 +61,28 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 
 
+<h6>
+<div id="clock"></div>
+<script type="text/javascript">
+function refrClock() 
+{ 
+var d=new Date(); 
+var s=d.getSeconds(); 
+var m=d.getMinutes(); 
+var h=d.getHours(); 
+var day=d.getDay(); 
+var date=d.getDate(); 
+var month=d.getMonth(); 
+var year=d.getFullYear(); 
+var days=new 
+Array("","","","","","",""); 
+var months=new Array("Ocak","&#350;ubat","Mart","Nisan","May&#305;s","Haziran","Temmuz","A&#287;ustos","Eylül","Ekim","Kas&#305;m","Aral&#305;k"); 
+if (s<10) {s="0" + s} 
+if (m<10) {m="0" + m}
+document.getElementById("clock").innerHTML=days[day] + "   " + date + " | " + months[month] + " | " + year + " / Saat : " + h + " : " + m + " : " + s + " "
+setTimeout("refrClock()",1000);
+} 
+refrClock(); 
+</script>
+</h6>
+
