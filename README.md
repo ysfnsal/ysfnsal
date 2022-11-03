@@ -1,4 +1,7 @@
 <h1 >Hi Folks, I'm Yusuf Unsal 👋
+## Contact Me 📫
+
+You can find and get touch with me via Linkedin and Instagram!
  <p align="left"><a href="https://www.linkedin.com/in/kullanıcıadı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adımne" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ysf.nsal/?next=%2F" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" alt="https://www.instagram.com/ysf.nsal/?next=%2F" height="30" width="40" /></a>
  </p></h1>
@@ -53,7 +56,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 You can find and get touch with me via Linkedin and Instagram!
 
-![<İkon ismi>](https://img.shields.io/badge/<Buton üzerinde bulunacak metin>-<Buton rengi>?style=for-the-badge&logo=<İkon ismş>&logoColor=<Logo rengi>)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfnsal&layout=compact&theme=dark" width="500" >
 
