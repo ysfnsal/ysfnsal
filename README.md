@@ -51,6 +51,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfnsal&layout=compact&theme=dark" width="500" >
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ysfnsal&show_icons=true&theme=radical)
