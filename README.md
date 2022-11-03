@@ -23,7 +23,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 You can find and get touch with me via Linkedin and Instagram!
 
-
+![<İkon ismi>](https://img.shields.io/badge/<Buton üzerinde bulunacak metin>-<Buton rengi>?style=for-the-badge&logo=<İkon ismş>&logoColor=<Logo rengi>)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfnsal&layout=compact&theme=dark" width="500" >
 
