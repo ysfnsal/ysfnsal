@@ -50,12 +50,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
-## Contact Me 📫
 
-You can find and get touch with me via Linkedin and Instagram!
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfnsal&layout=compact&theme=dark" width="500" >
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ysfnsal&show_icons=true&theme=radical)
