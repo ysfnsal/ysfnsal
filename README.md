@@ -28,6 +28,6 @@ You can find and get touch with me via Linkedin and Instagram!
 
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=YUSUF ÜNSAL&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=YUSUFÜNSAL&show_icons=true&theme=radical)
 
 ![snake gif](https://github.com/cagataytuylu/cagataytuylu/blob/output/github-contribution-grid-snake.gif)
