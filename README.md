@@ -1,32 +1,7 @@
 <h1 >Hi Folks, I'm Yusuf Unsal 👋
 
 <p align="left"><a href="https://www.linkedin.com/in/kullanıcıadı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adımne" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ysf.nsal/?next=%2F" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" alt="https://www.instagram.com/ysf.nsal/?next=%2F" height="30" width="40" /></a>
- <h2>
-<div id="clock"></div>
-<script type="text/javascript">
-function refrClock() 
-{ 
-var d=new Date(); 
-var s=d.getSeconds(); 
-var m=d.getMinutes(); 
-var h=d.getHours(); 
-var day=d.getDay(); 
-var date=d.getDate(); 
-var month=d.getMonth(); 
-var year=d.getFullYear(); 
-var days=new 
-Array("","","","","","",""); 
-var months=new Array("Ocak","&#350;ubat","Mart","Nisan","May&#305;s","Haziran","Temmuz","A&#287;ustos","Eylül","Ekim","Kas&#305;m","Aral&#305;k"); 
-if (s<10) {s="0" + s} 
-if (m<10) {m="0" + m}
-document.getElementById("clock").innerHTML=days[day] + "   " + date + " | " + months[month] + " | " + year + " / Saat : " + h + " : " + m + " : " + s + " "
-setTimeout("refrClock()",1000);
-} 
-refrClock(); 
-</script>
-</h2>
- </p></h1>
+<a href="https://www.instagram.com/ysf.nsal/?next=%2F" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" alt="https://www.instagram.com/ysf.nsal/?next=%2F" height="30" width="40" /></a></p></h1>
 
 
 
