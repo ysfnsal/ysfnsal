@@ -20,6 +20,11 @@ I'm a passionate learner who's always willing to learn and work across technolog
 You can find and get touch with me via Linkedin and Instagram!
 
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=MustafaBKLZ&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+
 <p align="left">
 <a href="https://www.linkedin.com/in/kullanıcıadı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adımne" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kullanıcıadı/?next=%2F" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" alt="https://www.instagram.com/kullanıcıadı/?next=%2F" height="30" width="40" /></a>
