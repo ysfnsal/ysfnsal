@@ -5,7 +5,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ## I'm currently working on 🔭
 
-Aws&DevOps Engineer 
+ DATA SCIENCE 
 
 ### My Absolute Favorites:
 
