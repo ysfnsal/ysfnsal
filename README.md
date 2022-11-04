@@ -74,5 +74,5 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ![snake gif](https://github.com/cagataytuylu/cagataytuylu/blob/output/github-contribution-grid-snake.gif)
 
-![snake gif](https://en.wikipedia.org/wiki/GIF#/media/File:Rotating_earth_(large).gif)
+<img src = "https://en.wikipedia.org/wiki/GIF#/media/File:Rotating_earth_(large).gif" width = 50px> 
 
