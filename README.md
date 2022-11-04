@@ -1,13 +1,11 @@
 <h1 >Hi Folks, I'm Yusuf Unsal 👋
  
- 
- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems 👨🏻‍💻.
-
-<p align="left"><a href="https://www.linkedin.com/in/kullanıcıadı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adımne" height="30" width="40" /></a>
+ <p align="left"><a href="https://www.linkedin.com/in/kullanıcıadı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adımne" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ysf.nsal/?next=%2F" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" alt="https://www.instagram.com/ysf.nsal/?next=%2F" height="30" width="40" /></a></p></h1>
 
+## I'm currently working on 🔭
 
+ DATA SCIENCE 
 
 ### 🔧 Languages and Tools:
 [<img align="left" alt="Adobe photoshop" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />][ap]
@@ -41,12 +39,11 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 
 
+ ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems 👨🏻‍💻.
 
 
 
-## I'm currently working on 🔭
-
- DATA SCIENCE 
 
 ### My Absolute Favorites:
 
