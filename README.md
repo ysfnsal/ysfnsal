@@ -3,12 +3,8 @@
  ## 🌐Socials
 [<img align="left" alt="instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />][instagram]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LN) 
-<br />
-[instagram]: https://www.instagram.com/ysf.nsal/?next=%2F 
 
-<br />
-<br />
- 
+
  
  
  <p align="left"><a href="https://www.linkedin.com/in/kullanıcıadı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adımne" height="30" width="40" /></a>
@@ -44,7 +40,7 @@
 [xd]: https://www.adobe.com/products/xd.html
 [ai]: https://www.adobe.com/tr/products/illustrator.html
 [ap]: https://www.adobe.com/tr/products/photoshop.html
-
+[instagram]: https://www.instagram.com/ysf.nsal/?next=%2F 
 <br />
 <br />
 
