@@ -16,6 +16,7 @@
 [<img align="left" alt="Ios" width="70px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
 [<img align="left" alt="Adobe XD" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
 [<img align="left" alt="Adobe Illustrator" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />][ai]
+[<img align="left" alt="Adobe photoshop" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />][ap]
 <br />
 
 [flutter]: https://flutter.dev/
@@ -27,6 +28,7 @@
 [ios]: https://www.apple.com/ios/ios-14/
 [xd]: https://www.adobe.com/products/xd.html
 [ai]: https://www.adobe.com/tr/products/illustrator.html
+[ap]: https://www.adobe.com/tr/products/illustrator.html
 
 <br />
 <br />
