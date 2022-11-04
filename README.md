@@ -1,5 +1,5 @@
 <h1 >Hi Folks, I'm Yusuf Unsal  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> 
- <img src = "https://onlinealarmkur.com/clock/" width = 50px> 
+
  
 [<img align="left" alt="l" width="10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Transformers_The_Ride_3D.jpg" />][l]
 
@@ -73,6 +73,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ysfnsal&show_icons=true&theme=radical)
 
 ![snake gif](https://github.com/cagataytuylu/cagataytuylu/blob/output/github-contribution-grid-snake.gif)
-
+![snake gif](https://saatkac.info.tr/)
 
 
