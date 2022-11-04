@@ -66,29 +66,11 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
-
+## &#x1f4c8; GitHub Stats
+ 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfnsal&layout=compact&theme=dark" width="500" >
-
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ysfnsal&show_icons=true&theme=radical)
 
 ![snake gif](https://github.com/cagataytuylu/cagataytuylu/blob/output/github-contribution-grid-snake.gif)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/ysfnsal/ysfnsal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfnsal&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/ysfnsal/ysfnsal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysfnsal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/ysfnsal/python-project-blueprint-master">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ysfnsal&repo=python-project-blueprint-master&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/ysfnsal/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ysfnsal&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
 
