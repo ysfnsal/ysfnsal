@@ -4,12 +4,6 @@
 [<img align="left" alt="instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />][instagram]
 [<img align="left" alt="linkedln" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][in]
 
-
- 
- 
- <p align="left"><a href="https://www.linkedin.com/in/kullanıcıadı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adımne" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ysf.nsal/?next=%2F" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" alt="https://www.instagram.com/ysf.nsal/?next=%2F" height="30" width="40" /></a></p></h1>
-
 ## I'm currently working on 🔭
 
  DATA SCIENCE 
