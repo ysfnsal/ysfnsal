@@ -3,12 +3,10 @@
  ## 🌐Socials
 [<img align="left" alt="instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />][instagram]
 [<img align="left" alt="linkedln" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][in]
-
 <br />
 
- [instagram]: https://www.instagram.com/ysf.nsal/?next=%2F 
+[instagram]: https://www.instagram.com/ysf.nsal/?next=%2F 
 [in]: https://www.linkedin.com
-
 <br />
 <br /> 
 
