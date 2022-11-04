@@ -1,12 +1,12 @@
 <h1 >Hi Folks, I'm Yusuf Unsal  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
  
  ## 🌐Socials
-<p>
 [<img align="left" alt="instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />][instagram]
 [<img align="left" alt="linkedln" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][in]
-</p>
-
-
+<br />
+[instagram]: https://www.instagram.com/ysf.nsal/?next=%2F 
+[in]: https://www.linkedin.com
+<br />
  
  ## I'm currently working on 🔭
 
@@ -38,8 +38,7 @@
 [xd]: https://www.adobe.com/products/xd.html
 [ai]: https://www.adobe.com/tr/products/illustrator.html
 [ap]: https://www.adobe.com/tr/products/photoshop.html
-[instagram]: https://www.instagram.com/ysf.nsal/?next=%2F 
-[in]: https://www.linkedin.com
+
 <br />
 <br />
 
