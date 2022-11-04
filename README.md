@@ -1,4 +1,4 @@
-<h1 >Hi Folks, I'm Yusuf Unsal 👋 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+<h1 >Hi Folks, I'm Yusuf Unsal  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
  
  <p align="left"><a href="https://www.linkedin.com/in/kullanıcıadı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adımne" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ysf.nsal/?next=%2F" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" alt="https://www.instagram.com/ysf.nsal/?next=%2F" height="30" width="40" /></a></p></h1>
