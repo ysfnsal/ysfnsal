@@ -40,7 +40,7 @@
 [xd]: https://www.adobe.com/products/xd.html
 [ai]: https://www.adobe.com/tr/products/illustrator.html
 [ap]: https://www.adobe.com/tr/products/photoshop.html
-[instagram]: https://www.instagram.com/ysf.nsal/?next=%2 
+
 <br />
 <br />
 
