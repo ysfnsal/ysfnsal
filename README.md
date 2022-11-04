@@ -28,7 +28,7 @@
 [ios]: https://www.apple.com/ios/ios-14/
 [xd]: https://www.adobe.com/products/xd.html
 [ai]: https://www.adobe.com/tr/products/illustrator.html
-[ap]: https://www.adobe.com/tr/products/illustrator.html
+[ap]: https://www.adobe.com/tr/products/photoshop.html
 
 <br />
 <br />
