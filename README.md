@@ -1,7 +1,7 @@
 <h1 >Hi Folks, I'm Yusuf Unsal  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
  
  ## 🌐Socials
-<p align="left">
+<p>
 [<img align="left" alt="instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />][instagram]
 [<img align="left" alt="linkedln" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][in]
 </p>
