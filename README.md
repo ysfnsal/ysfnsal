@@ -42,7 +42,7 @@
 [ap]: https://www.adobe.com/tr/products/photoshop.html
 
 <br />
-<br />
+
 
 
 
