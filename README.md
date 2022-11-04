@@ -4,7 +4,7 @@
 [<img align="left" alt="instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />][instagram]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LN) 
 <br />
-[instagram]:https://www.instagram.com/ysf.nsal/?next=%2F 
+[instagram]: https://www.instagram.com/ysf.nsal/?next=%2F 
 
 <br />
 
