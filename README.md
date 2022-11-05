@@ -74,3 +74,19 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ![snake gif](https://github.com/cagataytuylu/cagataytuylu/blob/output/github-contribution-grid-snake.gif)
 
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
+
+<img src="github-contribution-grid-snake.gif" width="auto">
+
+                                                                                                                                     
+<img src="walking-code.gif" width="auto">   ![erlevren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlevren&theme=dark&show_icons=true)
+
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
+
+
+
