@@ -10,7 +10,7 @@
  
 <br />
 
-[instagram]: https://www.instagram.com/ysf.nsal/?next=%2F 
+[instagram]: https://www.instagram.com/
 [in]: https://www.linkedin.com
 [l]: https://upload.wikimedia.org/wikipedia/commons/8/8d/Transformers_rap_08.ogg
 <br />
