@@ -69,7 +69,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ## &#x1f4c8; GitHub Stats
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfnsal&layout=compact&theme=dark" width="500" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfnsal&layout=compact&theme=dark" width="500" >
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ysfnsal&show_icons=true&theme=radical)
 
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
