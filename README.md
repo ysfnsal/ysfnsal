@@ -49,7 +49,20 @@
 [sql]: https://www.w3schools.com/sql/
 
 <br />
+<br />
 
+### 🎧 Spotify Playing 
+      
+&nbsp; <br> [![Spotify](https://novatorem1-theta.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
+
+### GitHub Analytics 📊
+
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+</a>
+
+<br />
+<br />
 
 
 
