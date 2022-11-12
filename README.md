@@ -69,5 +69,5 @@
  
 
 
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![snake gif](img height="125em" align="left" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg")
 
