@@ -67,10 +67,10 @@
 
 
  
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-
+<img src="github-contribution-grid-snake.gif" width="auto">
 <img src="walking-code.gif" width="auto">   
 
