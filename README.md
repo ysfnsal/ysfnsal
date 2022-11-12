@@ -51,9 +51,7 @@
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysfnsal&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 
-## &#x1f4c8; GitHub Stats
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfnsal&layout=compact&theme=dark" width="500" >
+## &#x1f4c8; GitHub Stats 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ysfnsal&show_icons=true&theme=radical)
 
 <br />
