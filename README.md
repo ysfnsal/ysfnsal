@@ -73,3 +73,4 @@
 
 
 <img src="walking-code.gif" width="auto">   
+<img src="code.gif" width="auto"> 
