@@ -21,6 +21,7 @@
  DATA SCIENCE 
 
 ### 🔧 Languages and Tools:
+[<img align="left" alt="Adobe photoshop" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" />][sql]
 [<img align="left" alt="Adobe photoshop" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />][ap]
 [<img align="left" alt="Adobe Illustrator" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />][ai]
 [<img align="left" alt="Adobe XD" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
@@ -46,6 +47,7 @@
 [xd]: https://www.adobe.com/products/xd.html
 [ai]: https://www.adobe.com/tr/products/illustrator.html
 [ap]: https://www.adobe.com/tr/products/photoshop.html
+[sql]: https://www.w3schools.com/sql/
 
 <br />
 
