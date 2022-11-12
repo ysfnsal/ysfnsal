@@ -23,7 +23,6 @@
 ### 🔧 Languages and Tools:
 [<img align="left" alt="Adobe photoshop" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />][ap]
 [<img align="left" alt="Adobe Illustrator" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />][ai]
-[<img align="left" alt="Adobe XD" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
 [<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
@@ -35,18 +34,14 @@
 
 <br />
 
-[flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[android]: https://www.android.com/
 [github]: https://github.com/ysfnsal
 [python]: https://www.python.org/
-[ios]: https://www.apple.com/ios/ios-14/
-[xd]: https://www.adobe.com/products/xd.html
 [ai]: https://www.adobe.com/tr/products/illustrator.html
 [ap]: https://www.adobe.com/tr/products/photoshop.html
 [sql]: https://www.w3schools.com/sql/
-[html]: 
+[html]:https://tr.wikipedia.org/wiki/HTML 
 
 <br />
 <br />
