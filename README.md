@@ -67,7 +67,7 @@
 
 
  
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](profile-green-animate.svg)
 
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
