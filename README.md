@@ -71,3 +71,5 @@
 
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
+
+<img src="walking-code.gif" width="auto">   ![erlevren's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysfnsal&theme=dark&show_icons=true)
