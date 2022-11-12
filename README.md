@@ -17,10 +17,18 @@
 <br /> 
 
  ## I'm currently working on 🔭
-
  DATA SCIENCE 
 
-### 🔧 Languages and Tools:
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+
+ I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems 👨🏻‍💻.
+
+### My Absolute Favorites:
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
+ 
+ ### 🔧 Languages and Tools:
 [<img align="left" alt="Adobe photoshop" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />][ap]
 [<img align="left" alt="Adobe Illustrator" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />][ai]
 [<img align="left" alt="Python" width="70px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
@@ -58,20 +66,7 @@
 
 
 
- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
-
- I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems 👨🏻‍💻.
-
-
-
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+ 
 
 
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
