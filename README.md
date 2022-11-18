@@ -37,6 +37,7 @@
 [<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="sql" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" />][sql]
+ [<img align="left" alt="sql" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Frucht-_und_Gem%C3%BCsegrtr%C3%A4nke_Einkaufsmengen_nach_Sorte.jpg" />][istatistic]
 
 
 <br />
@@ -49,7 +50,9 @@
 [ap]: https://www.adobe.com/tr/products/photoshop.html
 [sql]: https://www.w3schools.com/sql/
 [html]:https://tr.wikipedia.org/wiki/HTML 
-
+[istatistic]:https://tr.wikipedia.org/wiki/%C4%B0statistik
+ 
+ 
 <br />
 <br />
 
