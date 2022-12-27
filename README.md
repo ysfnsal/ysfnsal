@@ -11,7 +11,7 @@
 <br />
 
 [instagram]: https://www.instagram.com/
-[in]: https://www.linkedin.com
+[in]: https://www.linkedin.com/in/yusuf-unsal-104150259/
 [l]: https://upload.wikimedia.org/wikipedia/commons/8/8d/Transformers_rap_08.ogg
 <br />
 <br /> 
