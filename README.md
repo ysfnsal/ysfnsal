@@ -38,7 +38,7 @@
 [<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="sql" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" />][sql]
  [<img align="left" alt="sql" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Population_versus_sample_%28statistics%29.png" />][istatistic]
- [<img align="left" alt="sql" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Population_versus_sample_%28statistics%29.png" />][istatistic]
+ [<img align="left" alt="sql" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Tableau0101.png" />][Tableau]
 [<img align="left" alt="sql" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Powerbi-logo.jpg" />][powerbı]
 
 <br />
@@ -52,7 +52,8 @@
 [sql]: https://www.w3schools.com/sql/
 [html]:https://tr.wikipedia.org/wiki/HTML 
 [istatistic]:https://tr.wikipedia.org/wiki/%C4%B0statistik
-[powerbı]: https://powerbi.microsoft.com/tr-tr/ 
+[Tableau]: https://www.tableau.com/
+ [powerbı]: https://powerbi.microsoft.com/tr-tr/ 
  
 <br />
 <br />
