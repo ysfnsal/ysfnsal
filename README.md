@@ -36,10 +36,10 @@
 [<img align="left" alt="html" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />][html]
 [<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="sql" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" />][sql]
- [<img align="left" alt="sql" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Population_versus_sample_%28statistics%29.png" />][istatistic]
- [<img align="left" alt="sql" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Tableau0101.png" />][Tableau]
-[<img align="left" alt="sql" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Powerbi-logo.jpg" />][powerbı]
+[<img align="left" alt="sql" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" />][sql]
+ [<img align="left" alt="sql" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Population_versus_sample_%28statistics%29.png" />][istatistic]
+ [<img align="left" alt="sql" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Tableau0101.png" />][Tableau]
+[<img align="left" alt="sql" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Powerbi-logo.jpg" />][powerbı]
 
 <br />
 
