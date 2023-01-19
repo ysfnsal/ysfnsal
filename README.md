@@ -61,7 +61,7 @@
 
 ### GitHub Analytics 📊
 
-  <img height="250em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysfnsal&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+  <img height="260em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysfnsal&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ysfnsal&show_icons=true&theme=radical)
